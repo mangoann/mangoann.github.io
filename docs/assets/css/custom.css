@@ -1,0 +1,10 @@
+.wrapper {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 10px;
+  }
+  
+  body {
+    margin: 0;
+    padding: 10px;
+  }
