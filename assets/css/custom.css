@@ -64,3 +64,21 @@ img {
 section {
   margin: 2rem 0;
 }
+
+/* Wrap the main content in a flex container */
+.page {
+  display: flex;
+  align-items: flex-start; /* Align top of each column */
+  gap: 2rem; /* spacing between columns */
+  flex-wrap: wrap; /* ensures responsiveness on smaller screens */
+}
+
+/* Left column: image + name */
+.page > *:first-child {
+  flex: 0 0 280px; /* fixed width for sidebar */
+}
+
+/* Right column: about + projects */
+.page > *:nth-child(2) {
+  flex: 1; /* take remaining space */
+}
