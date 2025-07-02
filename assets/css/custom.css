@@ -66,19 +66,17 @@ section {
 }
 
 /* Create a flex layout for the entire page */
-.page {
+.wrapper {
   display: flex;
-  align-items: flex-start; /* align top edges of both columns */
-  gap: 2rem; /* space between left and right columns */
-  flex-wrap: wrap; /* allow stacking on small screens */
+  align-items: flex-start;
+  gap: 2rem;
+  flex-wrap: wrap;
 }
 
-/* Left column: photo + name */
-.page > *:first-child {
-  flex: 0 0 250px; /* fixed width for left sidebar */
+.wrapper > *:first-child {
+  flex: 0 0 250px;
 }
 
-/* Right column: content (About Me, etc.) */
-.page > *:nth-child(2) {
-  flex: 1; /* take remaining space */
+.wrapper > *:nth-child(2) {
+  flex: 1;
 }
