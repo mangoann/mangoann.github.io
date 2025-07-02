@@ -1,5 +1,5 @@
 # About Me
-Data professional with expertise in statistical modeling, large-scale data processing, and BI engineering. At Amazon, I design optimized ETL pipelines, build relational databases, and develop scalable KPI dashboards using SQL, Python, and QuickSight. My work enables real-time decision-making and cross-functional insights through empirical analysis and performance optimization.
+Data professional with expertise in statistical modeling, large-scale data processing, and BI engineering. At Amazon, I design optimized ETL pipelines, build relational databases, develop scalable KPI dashboards using SQL, Python, and QuickSight, and apply statistical analysis to drive predictive insights that support data-informed decision-making. My work enables real-time decision-making and cross-functional insights through empirical analysis and performance optimization.
 
 Outside of work, I enjoy reading books on science fiction, religion, and philosophy, staying current with developments in data science and finance, and spending time with my dog, Chloe.
 
