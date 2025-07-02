@@ -3,3 +3,13 @@ logo: docs/assets/LC.JPG
 description: Data Scientist | Statistical Analysis | Business Intelligence 
 #show_downloads: true
 theme: jekyll-theme-minimal
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+
+include:
+  - _includes/head-custom.html
