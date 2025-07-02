@@ -65,20 +65,20 @@ section {
   margin: 2rem 0;
 }
 
-/* Wrap the main content in a flex container */
+/* Create a flex layout for the entire page */
 .page {
   display: flex;
-  align-items: flex-start; /* Align top of each column */
-  gap: 2rem; /* spacing between columns */
-  flex-wrap: wrap; /* ensures responsiveness on smaller screens */
+  align-items: flex-start; /* align top edges of both columns */
+  gap: 2rem; /* space between left and right columns */
+  flex-wrap: wrap; /* allow stacking on small screens */
 }
 
-/* Left column: image + name */
+/* Left column: photo + name */
 .page > *:first-child {
-  flex: 0 0 280px; /* fixed width for sidebar */
+  flex: 0 0 250px; /* fixed width for left sidebar */
 }
 
-/* Right column: about + projects */
+/* Right column: content (About Me, etc.) */
 .page > *:nth-child(2) {
   flex: 1; /* take remaining space */
 }
