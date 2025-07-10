@@ -8,7 +8,8 @@ Data professional with 4+ years of expertise in statistical modeling, large-scal
 **My philosophy:** Acting in harmony with the natural flow - truly great things are not forced into form, but take shape in their own time.
 
 ## Projects
-### Project 1
+### People Analytics: Employee Churn Predictive Analytics
+![Thumbnail_EC](docs/assets/Thumbnail_EC.jpg)
 - Description
 - Links
 
