@@ -1,6 +1,6 @@
 # About Me
-Data professional with 3+ years of expertise in statistical modeling, large-scale data processing, and BI engineering. 
-Technical Proficiency: Python, SQL, Tableau, QuickSight, R, Excel
+Data professional with 3+ years of expertise in statistical modeling, large-scale data processing, and BI engineering.  
+**Technical Proficiency:** Python, SQL, Tableau, QuickSight, R, Excel
 ## Projects
 ### 1. People Analytics: Employee Churn Predictive Analytics
 To help HR teams **proactively identify and retain at-risk employees**, I built a predictive model with actionable insights and developed a Tableau dashboard for ongoing monitoring.  
