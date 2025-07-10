@@ -8,10 +8,11 @@ Data professional with 4+ years of expertise in statistical modeling, large-scal
 **My philosophy:** Acting in harmony with the natural flow - truly great things are not forced into form, but take shape in their own time.
 
 ## Projects
-### People Analytics: Employee Churn Predictive Analytics
+### 1. People Analytics: Employee Churn Predictive Analytics
+To help HR teams **proactively identify and retain at-risk employees**, I built a predictive model with actionable insights and developed a Tableau dashboard for ongoing monitoring.
+Tools used: Python, SQL, Tableau
+Project Link: abcd
+Employees Churn Analytics Dashboard:
 [![Thumbnail_EC](docs/assets/Thumbnail_EC.jpg)](https://public.tableau.com/shared/DQSK678RN?:display_count=n&:origin=viz_share_link![image](https://github.com/user-attachments/assets/356ff59a-3aaf-4772-ba7d-cc1170881603))
-- Description
-- Links
 
 ### Project 2
-This is for testing.
