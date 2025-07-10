@@ -9,7 +9,7 @@ Data professional with 4+ years of expertise in statistical modeling, large-scal
 
 ## Projects
 ### People Analytics: Employee Churn Predictive Analytics
-![Thumbnail_EC](docs/assets/Thumbnail_EC.jpg)
+[![Thumbnail_EC](docs/assets/Thumbnail_EC.jpg)](https://public.tableau.com/shared/DQSK678RN?:display_count=n&:origin=viz_share_link![image](https://github.com/user-attachments/assets/356ff59a-3aaf-4772-ba7d-cc1170881603))
 - Description
 - Links
 
