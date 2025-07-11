@@ -14,7 +14,6 @@
           <img src="{{ site.logo | relative_url }}" alt="Logo">
         {% endif %}
 
-        {# ✅ This is the modified line — renders HTML properly #}
         <p>{{ site.description | markdownify }}</p>
 
         {% if site.github.is_project_page %}
