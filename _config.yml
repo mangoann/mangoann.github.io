@@ -1,5 +1,12 @@
 title: Lean He
 logo: docs/assets/LC.JPG
-description: Data Scientist | Statistical Analysis | Business Intelligence 
-#show_downloads: true
+description: >
+  Data Scientist | Statistical Analysis | Business Intelligence  
+  <br><br>
+  <a href="https://www.linkedin.com/in/leanhe" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" />
+  </a>
+  <a href="https://github.com/mangoann" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" />
+  </a>
 theme: jekyll-theme-minimal
