@@ -1,12 +1,17 @@
 title: Lean He
 logo: docs/assets/LC.JPG
 description: >
-  Data Scientist | Statistical Analysis | Business Intelligence  
+  Data Scientist | BI Engineer 
   <br><br>
-  <a href="https://www.linkedin.com/in/leanhe" target="_blank">
+  <a href="mailto:leanhe1201@gmail.com" title="Email">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="24" />
+  </a> Email
+  <br><br>
+  <a href="https://www.linkedin.com/in/lean-he/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" />
-  </a>
+  </a> LinkedIn
+  <br><br>
   <a href="https://github.com/mangoann" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" />
-  </a>
+  </a> Github
 theme: jekyll-theme-minimal
