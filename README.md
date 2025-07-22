@@ -22,7 +22,8 @@ Key Findings:
 - Less than 10% of products drive over 80% of total orders and customer reach.  
 - LLM-powered analysis reveals “Organic” items dominate the top-performing products.
 
->If the embedded link doesn't work, you can access the project here: https://github.com/mangoann/InstacartProductAnalytics-SQLtoLLM
+>If the embedded link doesn't work, you can access the project here: [https://github.com/mangoann/InstacartProductAnalytics-SQLtoLLM](https://github.com/mangoann/InstacartProductAnalytics-SQLtoLLM)
+
 ### 2. [Employee Churn Analysis for Strategic HR](https://github.com/mangoann/EmployeeChurnAnalytics)
 
 This project flags employees at high risk of churn using a predictive model.  
@@ -37,7 +38,7 @@ where they’re most needed, improving resource efficiency
 3. Move from reactive to strategic HR  
 through predictive, data-backed insights
 
->If the embedded link doesn't work, you can access the project here: https://github.com/mangoann/EmployeeChurnAnalytics
+>If the embedded link doesn't work, you can access the project here: [https://github.com/mangoann/EmployeeChurnAnalytics](https://github.com/mangoann/EmployeeChurnAnalytics)
 
 
 
