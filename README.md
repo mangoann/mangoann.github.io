@@ -31,8 +31,10 @@ This project flags employees at high risk of churn using a predictive model.
 HR team can use this tool to
 1. **Proactively reduce turnover**  
 by identifying and addressing risks before resignation happens
+
 2. **Prioritize retention efforts**  
 where they’re most needed, improving resource efficiency
+
 3. **Move from reactive to strategic HR**  
 through predictive, data-backed insights
 
