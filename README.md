@@ -1,5 +1,5 @@
 # About Me
-Data professional with 3+ years of expertise in statistical modeling, large-scale data processing, and BI engineering  
+Data professional with 5+ yoe in analytics engineering, including 3+ yoe in recruiting analytics, and 2+ yoe in consumer analytics in B2B domain.
 
 **Technical Proficiency:** Python, SQL, Tableau, QuickSight, R, Excel
 ## Projects
