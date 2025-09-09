@@ -2,7 +2,7 @@
 Data professional with 5+ yoe in analytics engineering, including 3+ yoe in recruiting analytics, and 2+ yoe in consumer analytics in B2B domain.
 
 **Technical Proficiency:** Python, SQL, Tableau, QuickSight, R, Excel
-## Projects
+## Individual Projects
 ### 1. [Instacart Hero Product Analysis (Pareto + LLM)](https://github.com/mangoann/InstacartProductAnalytics-SQLtoLLM)
 
 Sales and Marketing team can use this analysis to guide 
